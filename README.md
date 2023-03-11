@@ -1,1 +1,0 @@
-# Python-django-assignment-Hexaware
